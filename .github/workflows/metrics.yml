@@ -16,3 +16,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: JP
           config_twemoji: yes
+          plugin_languages: yes
