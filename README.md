@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there! <img src="blob.gif" width="32px">
 I am a master's student in computer science, at the University of Tokyo.
 I am experienced in a wide range of software engineering fields, and the following are some examples.
 
@@ -15,7 +15,10 @@ I am experienced in a wide range of software engineering fields, and the followi
   - OpenCV
   - OpenGL
 
-You can find me on [![Twitter](twitter-icon.png)][https://twitter.com/m1kit], or on [![LinkedIn](linkedin-icon.png)][https://www.linkedin.com/in/m1kit/].
+![Twitter](twitter-icon.png)
+
+You can find me on [Twitter](https://twitter.com/m1kit), or on [LinkedIn](https://www.linkedin.com/in/m1kit/).
+
 
 #### Metrics
 ![](github-metrics.svg)
