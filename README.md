@@ -15,8 +15,6 @@ I am experienced in a wide range of software engineering fields, and the followi
   - OpenCV
   - OpenGL
 
-![Twitter](twitter-icon.png)
-
 You can find me on [Twitter](https://twitter.com/m1kit), or on [LinkedIn](https://www.linkedin.com/in/m1kit/).
 
 
